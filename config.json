@@ -1,0 +1,30 @@
+{
+  "albumName": "КРЕВЕツTOCHKA",
+  "artist": "КРЕВЕツTOCHKA",
+  "albumYear": 2025,
+  "background": "img/bg.jpg",
+  "promoCode": "VITRINA2025",
+  "donateLink": "https://yoomoney.ru/to/ВАШ_СЧЁТ_ЯНДЕКС",
+  "socials": [
+    {"title": "YouTube", "url": "https://www.youtube.com/channel/UCRg_ovWM_GefGlWC8xLyAiA/"},
+    {"title": "Telegram", "url": "https://t.me/ShrimpDivaOfficial"},
+    {"title": "VK", "url": "https://vk.com/apelsinov"},
+    {"title": "TikTok", "url": "https://www.tiktok.com/@vi3na1bita"}
+  ],
+  "tracks": [
+    {
+      "title": "Упала Слеза",
+      "audio": "audio/КРЕВЕツTOCHKA - Упала Слеза.mp3",
+      "lyrics": "lyrics/КРЕВЕツTOCHKA - Упала Слеза.json",
+      "size": 12.44,
+      "fulltext": "lyrics/КРЕВЕツTOCHKA - Упала Слеза.txt"
+    },
+    {
+      "title": "Принц",
+      "audio": "audio/КРЕВЕツTOCHKA - Принц.mp3",
+      "lyrics": "lyrics/КРЕВЕツTOCHKA - Принц.json",
+      "size": 10.36,
+      "fulltext": "lyrics/КРЕВЕツTOCHKA - Принц.txt"
+    }
+  ]
+}
