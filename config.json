@@ -13,6 +13,7 @@
   ],
   "tracks": [
     {
+      "uid": "KREV-01",
       "title": "Упала Слеза",
       "audio": "audio/КРЕВЕツTOCHKA - Упала Слеза.mp3",
       "lyrics": "lyrics/КРЕВЕツTOCHKA - Упала Слеза.json",
@@ -20,6 +21,7 @@
       "fulltext": "lyrics/КРЕВЕツTOCHKA - Упала Слеза.txt"
     },
     {
+      "uid": "KREV-02",
       "title": "Принц",
       "audio": "audio/КРЕВЕツTOCHKA - Принц.mp3",
       "lyrics": "lyrics/КРЕВЕツTOCHKA - Принц.json",
