@@ -16,16 +16,20 @@
       "uid": "KREV-01",
       "title": "Упала Слеза",
       "audio": "audio/КРЕВЕツTOCHKA - Упала Слеза.mp3",
+      "audio_low": "audio_low/КРЕВЕツTOCHKA - Упала Слеза.mp3",
       "lyrics": "lyrics/КРЕВЕツTOCHKA - Упала Слеза.json",
-      "size": 12.44,
+      "size": 10.48,
+      "size_low": 6.34,
       "fulltext": "lyrics/КРЕВЕツTOCHKA - Упала Слеза.txt"
     },
     {
       "uid": "KREV-02",
       "title": "Принц",
       "audio": "audio/КРЕВЕツTOCHKA - Принц.mp3",
+      "audio_low": "audio_low/КРЕВЕツTOCHKA - Принц.mp3",
       "lyrics": "lyrics/КРЕВЕツTOCHKA - Принц.json",
-      "size": 10.36,
+      "size": 8.39,
+      "size_low": 5.09,
       "fulltext": "lyrics/КРЕВЕツTOCHKA - Принц.txt"
     }
   ]
